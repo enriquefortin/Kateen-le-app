@@ -1,0 +1,545 @@
+--release
+--output
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects
+--lib
+C:\Android\platforms\android-33\android.jar
+C:\Android\tools\..\extras\b4a_local\unpacked-b4ashared-63837499356000\dex_v1\b4ashared.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-debug-63837499358000\dex_v1\debug.zip
+c:\android\tools\..\extras\b4a_remote\com\google\android\gms\play-services-measurement\21.2.0\unpacked-play-services-measurement-21.2.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\legacy\legacy-support-core-utils\1.0.0\unpacked-legacy-support-core-utils-1.0.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\core\core\1.9.0\unpacked-core-1.9.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\core\core-ktx\1.9.0\unpacked-core-ktx-1.9.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\annotation\annotation-experimental\1.3.0\unpacked-annotation-experimental-1.3.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\lifecycle\lifecycle-runtime\2.5.1\unpacked-lifecycle-runtime-2.5.1\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\versionedparcelable\versionedparcelable\1.1.1\unpacked-versionedparcelable-1.1.1\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\documentfile\documentfile\1.0.1\unpacked-documentfile-1.0.1\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\loader\loader\1.1.0\unpacked-loader-1.1.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\lifecycle\lifecycle-livedata-core\2.5.1\unpacked-lifecycle-livedata-core-2.5.1\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\lifecycle\lifecycle-viewmodel\2.5.1\unpacked-lifecycle-viewmodel-2.5.1\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\lifecycle\lifecycle-viewmodel-savedstate\2.5.1\unpacked-lifecycle-viewmodel-savedstate-2.5.1\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\savedstate\savedstate\1.2.0\unpacked-savedstate-1.2.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\localbroadcastmanager\localbroadcastmanager\1.1.0\unpacked-localbroadcastmanager-1.1.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\print\print\1.0.0\unpacked-print-1.0.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\android\gms\play-services-ads-identifier\18.0.1\unpacked-play-services-ads-identifier-18.0.1\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\android\gms\play-services-basement\18.1.0\unpacked-play-services-basement-18.1.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\fragment\fragment\1.5.4\unpacked-fragment-1.5.4\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\activity\activity\1.6.1\unpacked-activity-1.6.1\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\activity\activity-ktx\1.6.1\unpacked-activity-ktx-1.6.1\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\lifecycle\lifecycle-runtime-ktx\2.5.1\unpacked-lifecycle-runtime-ktx-2.5.1\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\lifecycle\lifecycle-viewmodel-ktx\2.5.1\unpacked-lifecycle-viewmodel-ktx-2.5.1\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\savedstate\savedstate-ktx\1.2.0\unpacked-savedstate-ktx-1.2.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\viewpager\viewpager\1.0.0\unpacked-viewpager-1.0.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\androidx\customview\customview\1.1.0\unpacked-customview-1.1.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\android\gms\play-services-measurement-base\21.2.0\unpacked-play-services-measurement-base-21.2.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\android\gms\play-services-measurement-impl\21.2.0\unpacked-play-services-measurement-impl-21.2.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\android\gms\play-services-stats\17.0.3\unpacked-play-services-stats-17.0.3\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\firebase\firebase-common\20.2.0\unpacked-firebase-common-20.2.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\android\gms\play-services-tasks\18.0.2\unpacked-play-services-tasks-18.0.2\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\firebase\firebase-components\17.0.1\unpacked-firebase-components-17.0.1\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\android\gms\play-services-measurement-api\21.2.0\unpacked-play-services-measurement-api-21.2.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\android\gms\play-services-measurement-sdk-api\21.2.0\unpacked-play-services-measurement-sdk-api-21.2.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\firebase\firebase-installations\17.1.0\unpacked-firebase-installations-17.1.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\firebase\firebase-installations-interop\17.1.0\unpacked-firebase-installations-interop-17.1.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\firebase\firebase-measurement-connector\20.0.0\unpacked-firebase-measurement-connector-20.0.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\firebase\firebase-messaging\23.1.0\unpacked-firebase-messaging-23.1.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\android\datatransport\transport-api\3.0.0\unpacked-transport-api-3.0.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\android\datatransport\transport-backend-cct\3.1.8\unpacked-transport-backend-cct-3.1.8\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\android\datatransport\transport-runtime\3.1.8\unpacked-transport-runtime-3.1.8\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\firebase\firebase-encoders-json\18.0.0\unpacked-firebase-encoders-json-18.0.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\android\gms\play-services-base\18.1.0\unpacked-play-services-base-18.1.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\android\gms\play-services-cloud-messaging\17.0.2\unpacked-play-services-cloud-messaging-17.0.2\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\firebase\firebase-datatransport\18.1.7\unpacked-firebase-datatransport-18.1.7\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\firebase\firebase-iid-interop\17.1.0\unpacked-firebase-iid-interop-17.1.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\firebase\firebase-core\21.1.1\unpacked-firebase-core-21.1.1\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\firebase\firebase-analytics\21.2.0\unpacked-firebase-analytics-21.2.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\android\gms\play-services-measurement-sdk\21.2.0\unpacked-play-services-measurement-sdk-21.2.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\android\gms\play-services-maps\18.1.0\unpacked-play-services-maps-18.1.0\jars\classes.zip
+c:\android\tools\..\extras\b4a_remote\com\google\android\play\core\1.10.3\unpacked-core-1.10.3\jars\classes.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-camera-63837499358000\dex_v1\camera.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-core-63837499358000\dex_v1\core.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-firebaseanalytics-63837499358000\dex_v1\firebaseanalytics.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-firebasenotifications-63837499358000\dex_v1\firebasenotifications.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-googlemaps-63702006924000\dex_v1\googlemaps.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-googlemapsextras-63567381384000\dex_v1\googlemapsextras.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-gps-63837499358000\dex_v1\gps.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-inappupdate-63801229918929\dex_v1\inappupdate.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-phone-63837499358000\dex_v1\phone.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-randomaccessfile-63837499358000\dex_v1\randomaccessfile.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-reflection-63837499358000\dex_v1\reflection.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-runtimepermissions.androidx-63837499358000\dex_v1\runtimepermissions.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-sql-63837499358000\dex_v1\sql.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-xcustomlistview-63837499358000\dex_v1\xcustomlistview.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-xui-63837499358000\dex_v1\xui.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-stringutils-63837499358000\dex_v1\stringutils.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-javaobject-63837499358000\dex_v1\javaobject.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-okhttp-63837499358000\dex_v1\okhttp.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-bitmapcreator-63837499358000\dex_v1\bitmapcreator.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-dateutils-63837499358000\dex_v1\dateutils.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-ime-63837499358000\dex_v1\ime.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-okhttp-4.9.0-63837499358000\dex_v1\okhttp-4.9.0.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-okio-2.8.0-63837499358000\dex_v1\okio-2.8.0.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-okhttp-urlconnection-4.9.3-63837499358000\dex_v1\okhttp-urlconnection-4.9.3.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-kotlin-stdlib-1.6.10-63837499358000\dex_v1\kotlin-stdlib-1.6.10.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-remotelogger-63837499358000\dex_v1\remotelogger.zip
+c:\android\tools\..\extras\b4a_remote\androidx\collection\collection\1.2.0\collection-1.2.0.zip
+c:\android\tools\..\extras\b4a_remote\androidx\annotation\annotation\1.5.0\annotation-1.5.0.zip
+c:\android\tools\..\extras\b4a_remote\androidx\arch\core\core-common\2.1.0\core-common-2.1.0.zip
+c:\android\tools\..\extras\b4a_remote\androidx\lifecycle\lifecycle-common\2.5.1\lifecycle-common-2.5.1.zip
+c:\android\tools\..\extras\b4a_remote\androidx\lifecycle\lifecycle-common-java8\2.5.1\lifecycle-common-java8-2.5.1.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-com.google.errorprone-error_prone_annotations-63837499358000\dex_v1\com.google.errorprone-error_prone_annotations.zip
+c:\android\tools\..\extras\b4a_remote\com\google\firebase\firebase-annotations\16.1.0\firebase-annotations-16.1.0.zip
+c:\android\tools\..\extras\b4a_remote\com\google\firebase\firebase-encoders\17.0.0\firebase-encoders-17.0.0.zip
+c:\android\tools\..\extras\b4a_remote\com\google\firebase\firebase-encoders-proto\16.0.0\firebase-encoders-proto-16.0.0.zip
+C:\Android\tools\..\extras\b4a_local\unpacked-javax.inject-javax.inject-63837499358000\dex_v1\javax.inject-javax.inject.zip
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\R$anim.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\R$animator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\R$attr.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\R$color.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\R$dimen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\R$drawable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\R$id.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\R$integer.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\R$layout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\R$raw.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\R$string.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\R$style.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\R$styleable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\R.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\ktx\R$anim.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\ktx\R$animator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\ktx\R$attr.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\ktx\R$color.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\ktx\R$dimen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\ktx\R$drawable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\ktx\R$id.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\ktx\R$integer.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\ktx\R$layout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\ktx\R$raw.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\ktx\R$string.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\ktx\R$style.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\ktx\R$styleable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\activity\ktx\R.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\annotation\experimental\R$anim.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\annotation\experimental\R$animator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\annotation\experimental\R$attr.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\annotation\experimental\R$color.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\annotation\experimental\R$dimen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\annotation\experimental\R$drawable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\annotation\experimental\R$id.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\annotation\experimental\R$integer.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\annotation\experimental\R$layout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\annotation\experimental\R$raw.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\annotation\experimental\R$string.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\annotation\experimental\R$style.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\annotation\experimental\R$styleable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\annotation\experimental\R.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\R$anim.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\R$animator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\R$attr.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\R$color.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\R$dimen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\R$drawable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\R$id.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\R$integer.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\R$layout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\R$raw.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\R$string.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\R$style.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\R$styleable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\R.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\ktx\R$anim.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\ktx\R$animator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\ktx\R$attr.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\ktx\R$color.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\ktx\R$dimen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\ktx\R$drawable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\ktx\R$id.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\ktx\R$integer.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\ktx\R$layout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\ktx\R$raw.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\ktx\R$string.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\ktx\R$style.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\ktx\R$styleable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\core\ktx\R.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\fragment\R$anim.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\fragment\R$animator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\fragment\R$attr.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\fragment\R$color.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\fragment\R$dimen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\fragment\R$drawable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\fragment\R$id.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\fragment\R$integer.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\fragment\R$layout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\fragment\R$raw.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\fragment\R$string.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\fragment\R$style.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\fragment\R$styleable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\fragment\R.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\ktx\R$anim.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\ktx\R$animator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\ktx\R$attr.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\ktx\R$color.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\ktx\R$dimen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\ktx\R$drawable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\ktx\R$id.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\ktx\R$integer.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\ktx\R$layout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\ktx\R$raw.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\ktx\R$string.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\ktx\R$style.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\ktx\R$styleable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\ktx\R.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\livedata\core\R$anim.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\livedata\core\R$animator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\livedata\core\R$attr.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\livedata\core\R$color.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\livedata\core\R$dimen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\livedata\core\R$drawable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\livedata\core\R$id.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\livedata\core\R$integer.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\livedata\core\R$layout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\livedata\core\R$raw.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\livedata\core\R$string.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\livedata\core\R$style.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\livedata\core\R$styleable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\livedata\core\R.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\runtime\R$anim.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\runtime\R$animator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\runtime\R$attr.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\runtime\R$color.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\runtime\R$dimen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\runtime\R$drawable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\runtime\R$id.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\runtime\R$integer.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\runtime\R$layout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\runtime\R$raw.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\runtime\R$string.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\runtime\R$style.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\runtime\R$styleable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\runtime\R.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\R$anim.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\R$animator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\R$attr.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\R$color.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\R$dimen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\R$drawable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\R$id.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\R$integer.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\R$layout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\R$raw.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\R$string.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\R$style.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\R$styleable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\R.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\ktx\R$anim.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\ktx\R$animator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\ktx\R$attr.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\ktx\R$color.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\ktx\R$dimen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\ktx\R$drawable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\ktx\R$id.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\ktx\R$integer.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\ktx\R$layout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\ktx\R$raw.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\ktx\R$string.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\ktx\R$style.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\ktx\R$styleable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\ktx\R.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\savedstate\R$anim.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\savedstate\R$animator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\savedstate\R$attr.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\savedstate\R$color.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\savedstate\R$dimen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\savedstate\R$drawable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\savedstate\R$id.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\savedstate\R$integer.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\savedstate\R$layout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\savedstate\R$raw.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\savedstate\R$string.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\savedstate\R$style.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\savedstate\R$styleable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\lifecycle\viewmodel\savedstate\R.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\localbroadcastmanager\R$anim.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\localbroadcastmanager\R$animator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\localbroadcastmanager\R$attr.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\localbroadcastmanager\R$color.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\localbroadcastmanager\R$dimen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\localbroadcastmanager\R$drawable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\localbroadcastmanager\R$id.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\localbroadcastmanager\R$integer.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\localbroadcastmanager\R$layout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\localbroadcastmanager\R$raw.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\localbroadcastmanager\R$string.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\localbroadcastmanager\R$style.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\localbroadcastmanager\R$styleable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\localbroadcastmanager\R.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\R$anim.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\R$animator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\R$attr.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\R$color.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\R$dimen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\R$drawable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\R$id.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\R$integer.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\R$layout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\R$raw.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\R$string.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\R$style.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\R$styleable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\R.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\ktx\R$anim.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\ktx\R$animator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\ktx\R$attr.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\ktx\R$color.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\ktx\R$dimen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\ktx\R$drawable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\ktx\R$id.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\ktx\R$integer.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\ktx\R$layout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\ktx\R$raw.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\ktx\R$string.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\ktx\R$style.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\ktx\R$styleable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\androidx\savedstate\ktx\R.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\activegps.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\animatedcounter.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\anotherprogressbar$ResumableSub_BusyLoop.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\anotherprogressbar.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xbitset.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xbreadcrumb.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xbytesbuilder.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xcache$_b4xcacheitem.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xcache.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xcollections.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xcolortemplate$ResumableSub_Show.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xcolortemplate$_colorpickerpart.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xcolortemplate.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xcombobox$ResumableSub_RaiseEvent.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xcombobox.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xcomparatorsort.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xdatetemplate$ResumableSub_Show.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xdatetemplate.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xdialog$ResumableSub_Show.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xdialog$ResumableSub_ShowCustom.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xdialog$ResumableSub_ShowTemplate.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xdialog.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xfloattextfield$ResumableSub_SwitchFromPasswordToRegular.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xfloattextfield.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xformatter$_b4xformatdata.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xformatter.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4ximageview.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xinputtemplate$ResumableSub_Show.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xinputtemplate.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xlisttemplate$ResumableSub_Show.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xlisttemplate.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xloadingindicator$ResumableSub_MainLoop.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xloadingindicator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xlongtexttemplate.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xmainpage$ResumableSub_B4XPage_Created.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xmainpage$ResumableSub_CheckAndRequestNotificationPermission.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xmainpage.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xorderedmap.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xpages.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xpagesdelegator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xpagesmanager$PagesMenuListener.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xpagesmanager$ResumableSub_HandleCloseRequest.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xpagesmanager$_b4amenuitem.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xpagesmanager$_b4xpageinfo.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xpagesmanager$_b4xpageparent.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xpagesmanager.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xplusminus$ResumableSub_StartDownLoop.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xplusminus.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xradiobutton$ResumableSub_SetValueImpl.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xradiobutton.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xsearchtemplate$ResumableSub_Show.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xsearchtemplate.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xseekbar.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xset.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xsignaturetemplate.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xswitch$ResumableSub_SetValueImpl.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xswitch.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xtimedtemplate$ResumableSub_Show.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\b4xtimedtemplate.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bbcodeparser$ResumableSub_SetImageView.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bbcodeparser$_bbcodeparsedata.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bbcodeparser$_bbcodetagnode.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bbcodeparser$_bbcodetextnode.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bbcodeparser.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bbcodeview$_internalbbviewurl.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bbcodeview.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bblabel.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bctextengine$_bcconnectedruns.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bctextengine$_bcfontmetrics.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bctextengine$_bcglyph.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bctextengine$_bcglyphandoffset.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bctextengine$_bcparagraph.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bctextengine$_bcparagraphstyle.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bctextengine$_bcsinglestylesection.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bctextengine$_bcstyledunderline.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bctextengine$_bctextchars.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bctextengine$_bctextline.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bctextengine$_bctextrun.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bctextengine$_bcunbreakabletext.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bctextengine.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bctoast$ResumableSub_Show.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bctoast.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bitmapsasync$1.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bitmapsasync$ResumableSub_LoadFromFile.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bitmapsasync$ResumableSub_LoadFromHttpJob.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\bitmapsasync.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\cameraexclass$ResumableSub_Camera_FocusDone.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\cameraexclass$_camerainfoandid.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\cameraexclass$_camerasize.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\cameraexclass.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\dbrequestmanager$ResumableSub_HandleJobAsync.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\dbrequestmanager.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\firebasemessaging.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\gpsmap$ResumableSub_AddMap.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\gpsmap.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\httpjob$_multipartfiledata.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\httpjob.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\httputils2service.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\login.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\madewithlove.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\main$1.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\main$B4AMenuItemsClickListener.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\main$HandleKeyDelayed.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\main$ResumeMessage.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\main$WaitForLayout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\main$_dbcommand.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\main$_dbresult.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\main.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\Manifest$permission.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\Manifest.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\menuorden.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\menup.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\nb6.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\opencamera$ResumableSub_StartCamera.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\opencamera.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\questioninterface.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\R$anim.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\R$animator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\R$attr.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\R$color.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\R$dimen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\R$drawable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\R$id.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\R$integer.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\R$layout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\R$raw.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\R$string.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\R$style.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\R$styleable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\R.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\revisiones.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\roundslider.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\scrollinglabel$ResumableSub_StartScrolling.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\scrollinglabel.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\starter$1.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\starter$2.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\starter$MyNmeaMessageListener.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\starter$starter_BR.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\starter.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\swiftbutton.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\xuiviewsutils.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\designerscripts\LS_firma.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\designerscripts\LS_golpes.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\designerscripts\LS_gps.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\designerscripts\LS_gpsmap.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\designerscripts\LS_login.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\designerscripts\LS_menudatoscliente.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\designerscripts\LS_menudatosvehiculo.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\designerscripts\LS_menuorden.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\designerscripts\LS_menup.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\designerscripts\LS_opencamera.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\designerscripts\LS_ordenes.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\designerscripts\LS_questioninterfaz.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\designerscripts\LS_revi1.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\designerscripts\LS_revi2.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\designerscripts\LS_searchtemplate.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\designerscripts\LS_selectloc.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\detektor\kateenapp\designerscripts\LS_splashscreen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\base\R$anim.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\base\R$animator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\base\R$attr.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\base\R$color.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\base\R$dimen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\base\R$drawable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\base\R$id.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\base\R$integer.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\base\R$layout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\base\R$raw.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\base\R$string.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\base\R$style.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\base\R$styleable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\base\R.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\common\R$anim.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\common\R$animator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\common\R$attr.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\common\R$color.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\common\R$dimen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\common\R$drawable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\common\R$id.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\common\R$integer.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\common\R$layout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\common\R$raw.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\common\R$string.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\common\R$style.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\common\R$styleable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\common\R.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\maps\R$anim.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\maps\R$animator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\maps\R$attr.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\maps\R$color.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\maps\R$dimen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\maps\R$drawable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\maps\R$id.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\maps\R$integer.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\maps\R$layout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\maps\R$raw.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\maps\R$string.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\maps\R$style.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\maps\R$styleable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\gms\maps\R.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\play\core\client\R$anim.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\play\core\client\R$animator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\play\core\client\R$attr.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\play\core\client\R$color.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\play\core\client\R$dimen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\play\core\client\R$drawable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\play\core\client\R$id.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\play\core\client\R$integer.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\play\core\client\R$layout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\play\core\client\R$raw.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\play\core\client\R$string.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\play\core\client\R$style.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\play\core\client\R$styleable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\android\play\core\client\R.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\R$anim.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\R$animator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\R$attr.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\R$color.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\R$dimen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\R$drawable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\R$id.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\R$integer.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\R$layout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\R$raw.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\R$string.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\R$style.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\R$styleable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\R.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\messaging\R$anim.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\messaging\R$animator.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\messaging\R$attr.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\messaging\R$color.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\messaging\R$dimen.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\messaging\R$drawable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\messaging\R$id.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\messaging\R$integer.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\messaging\R$layout.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\messaging\R$raw.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\messaging\R$string.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\messaging\R$style.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\messaging\R$styleable.dex
+C:\Datos\OneDrive - Detektor\DetektorApp\B4A\Objects\dexed\com\google\firebase\messaging\R.dex

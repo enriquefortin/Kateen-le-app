@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163149882505",
+    "project_id": "kateen-le-app",
+    "storage_bucket": "kateen-le-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163149882505:android:bdc07c92f70a3604751258",
+        "android_client_info": {
+          "package_name": "com.detektor.kateenapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX7d3S-612RX102K4dNbzAynyYxeTffBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+﻿ModuleBookmarks0=
+ModuleBookmarks1=
+ModuleBookmarks2=
+ModuleBookmarks3=
+ModuleBreakpoints0=
+ModuleBreakpoints1=
+ModuleBreakpoints2=
+ModuleBreakpoints3=
+ModuleClosedNodes0=
+ModuleClosedNodes1=
+ModuleClosedNodes2=
+ModuleClosedNodes3=
+NavigationStack=TestHandler,Handle,14,0,RDCHandler,ExecuteQuery2,64,0,Main,AppStart,25,3,Main,Process_Globals,14,6,RDCConnector,LoadSQLCommands,40,0,RDCConnector,GetConnection,37,0,RDCConnector,GetCommand,30,0,RDCConnector,Initialize,20,1,RDCConnector,Class_Globals,2,0,RDCConnector,LoadConfigMap,23,0
+SelectedBuild=0
+VisibleModules=1,2,3

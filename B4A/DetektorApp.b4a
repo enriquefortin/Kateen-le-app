@@ -1,0 +1,244 @@
+﻿Build1=Default,com.detektor.kateenapp
+File1=Captura de pantalla 2024-05-27 083348.png
+File10=ffpanel.jpg
+File11=ffpdoble.jpg
+File12=ffsencillo.jpg
+File13=FFURGON.jpg
+File14=firma.bal
+File15=fmoto.jpg
+File16=fsedan.jpg
+File17=furgon.jpg
+File18=golpes.bal
+File19=gps.bal
+File2=cross.png
+File20=gpsmap.bal
+File21=gpssat.png
+File22=guion.png
+File23=icon.png
+File24=josuedtk.png
+File25=login.bal
+File26=logodtk.png
+File27=menu1024.png
+File28=menudatoscliente.bal
+File29=menudatosvehiculo.bal
+File3=dtklogo.png
+File30=menuorden.bal
+File31=menup.bal
+File32=OpenCamera.bal
+File33=ordenes.bal
+File34=questioninterfaz.bal
+File35=radiogps.png
+File36=rayo.png
+File37=revi1.bal
+File38=revi2.bal
+File39=Ribeye-Regular.ttf
+File4=dtkpin.png
+File40=Roboto-Bold.ttf
+File41=Roboto-Light.ttf
+File42=Roboto-Regular.ttf
+File43=selectloc.bal
+File44=sergpsradio.png
+File45=servariagpsrad.png
+File46=servicio.png
+File47=SplashScreen.bal
+File5=equis.png
+File6=extra.png
+File7=FCAMIONETA.jpg
+File8=ffavioneta.jpg
+File9=FFCAMION.jpg
+FileGroup1=Default Group
+FileGroup10=Default Group\imgenesautos
+FileGroup11=Default Group\imgenesautos
+FileGroup12=Default Group\imgenesautos
+FileGroup13=Default Group\imgenesautos
+FileGroup14=Default Group
+FileGroup15=Default Group\imgenesautos
+FileGroup16=Default Group\imgenesautos
+FileGroup17=Default Group\imgenesautos
+FileGroup18=Default Group
+FileGroup19=Default Group
+FileGroup2=Default Group
+FileGroup20=Default Group
+FileGroup21=Default Group
+FileGroup22=Default Group
+FileGroup23=Default Group
+FileGroup24=Default Group
+FileGroup25=Default Group
+FileGroup26=Default Group
+FileGroup27=Default Group
+FileGroup28=Default Group
+FileGroup29=Default Group
+FileGroup3=Default Group
+FileGroup30=Default Group
+FileGroup31=Default Group
+FileGroup32=Default Group
+FileGroup33=Default Group
+FileGroup34=Default Group
+FileGroup35=Default Group
+FileGroup36=Default Group
+FileGroup37=Default Group
+FileGroup38=Default Group
+FileGroup39=Default Group
+FileGroup4=Default Group
+FileGroup40=Default Group
+FileGroup41=Default Group
+FileGroup42=Default Group
+FileGroup43=Default Group
+FileGroup44=Default Group
+FileGroup45=Default Group
+FileGroup46=Default Group
+FileGroup47=Default Group
+FileGroup5=Default Group
+FileGroup6=Default Group
+FileGroup7=Default Group\imgenesautos
+FileGroup8=Default Group\imgenesautos
+FileGroup9=Default Group\imgenesautos
+Group=Default Group
+Library1=b4xpages
+Library10=inappupdate
+Library11=nb6
+Library12=okhttputils2
+Library13=phone
+Library14=randomaccessfile
+Library15=reflection
+Library16=runtimepermissions
+Library17=sql
+Library18=xcustomlistview
+Library19=xui
+Library2=bitmapsasync
+Library20=xui views
+Library21=bctoast
+Library3=camera
+Library4=core
+Library5=firebaseanalytics
+Library6=firebasenotifications
+Library7=googlemaps
+Library8=googlemapsextras
+Library9=gps
+ManifestCode='This code will be applied to the manifest file during compilation.~\n~'You do not need to modify it in most cases.~\n~'See this link for for more information: https://www.b4x.com/forum/showthread.php?p=78136~\n~AddManifestText(~\n~<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="33"/>~\n~<supports-screens android:largeScreens="true" ~\n~    android:normalScreens="true" ~\n~    android:smallScreens="true" ~\n~    android:anyDensity="true"/>)~\n~SetApplicationAttribute(android:icon, "@drawable/icon")~\n~SetApplicationAttribute(android:largeHeap,"true")~\n~SetApplicationAttribute(android:label, "$LABEL$")~\n~CreateResourceFromFile(Macro, Themes.LightTheme)~\n~'End of default text.~\n~CreateResourceFromFile(Macro, FirebaseAnalytics.GooglePlayBase)~\n~CreateResourceFromFile(Macro, FirebaseAnalytics.Firebase)~\n~CreateResourceFromFile(Macro, FirebaseAnalytics.FirebaseAnalytics)~\n~CreateResourceFromFile(Macro, FirebaseNotifications.FirebaseNotifications)~\n~~\n~~\n~AddApplicationText(~\n~<uses-library~\n~      android:name="org.apache.http.legacy"~\n~      android:required="false" />)~\n~	  ~\n~AddManifestText(<uses-feature android:name="android.hardware.location.gps"/>)~\n~SetApplicationAttribute(android:usesCleartextTraffic, "true")~\n~AddPermission("android.permission.INTERNET")~\n~~\n~~\n~'************ Facebook Login ****************~\n~AddApplicationText( <activity~\n~            android:name="com.facebook.FacebookActivity"~\n~            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"~\n~            android:theme="@android:style/Theme.Translucent.NoTitleBar" />~\n~          <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>)~\n~~\n~'************ Facebook Login (end) **********~\n~CreateResource(values, facebook.xml, <resources>~\n~    <string name="facebook_app_id">2158133431010817</string>~\n~   </resources>)~\n~   ~\n~   AddApplicationText(~\n~<meta-data~\n~  android:name="com.google.android.geo.API_KEY"~\n~  android:value="AIzaSyDGvkUnONajxtADvBKJnhtW1pbHeYvcCwA"/>)~\n~''SetApplicationAttribute(android:icon, "@mipmap/ic_launcher")~\n~''CreateResource(mipmap-anydpi-v26, ic_launcher.xml,~\n~''<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">~\n~''<background android:drawable="@mipmap/background"/>~\n~''<foreground android:drawable="@mipmap/foreground"/>~\n~''</adaptive-icon>~\n~'')~\n~
+Module1=ActiveGPS
+Module10=OpenCamera
+Module11=questioninterface
+Module12=revisiones
+Module13=Starter
+Module2=|relative|..\B4XMainPage
+Module3=CameraExClass
+Module4=DBRequestManager
+Module5=FirebaseMessaging
+Module6=gpsmap
+Module7=login
+Module8=menuorden
+Module9=menup
+NumberOfFiles=47
+NumberOfLibraries=21
+NumberOfModules=13
+Version=12.8
+@EndOfDesignText@
+#Region  Project Attributes 
+	#ApplicationLabel: Kateen-le App
+	#VersionCode: 1
+	#VersionName: 1.0
+	'SupportedOrientations possible values: unspecified, landscape or portrait.
+	#SupportedOrientations: portrait
+	#CanInstallToExternalStorage: False
+	#AdditionalJar: com.google.android.gms:play-services-base
+#End Region
+	
+#Region  Activity Attributes 
+	#FullScreen: true
+	#IncludeTitle: false	
+#End Region
+
+#BridgeLogger: True
+
+Sub Process_Globals
+	Public ActionBarHomeClicked As Boolean
+	Type DBResult (Tag As Object, Columns As Map, Rows As List)
+	Type DBCommand (Name As String, Parameters() As Object)
+	Dim const rdcLink As String = "http://192.168.75.107:17178/rdc"
+	Dim sql1 As SQL
+End Sub
+
+Sub Globals
+	Private InAppUpdate As InAppUpdate
+End Sub
+
+Sub Activity_Create(FirstTime As Boolean)
+
+	
+	CheckUpdate
+	
+	
+	If File.Exists(File.DirInternal,"Clientsdb.db") = False Then
+		File.Copy(File.DirAssets,"Clientsdb.db",File.DirInternal,"Clientsdb.db")
+	End If
+	sql1.Initialize(File.DirInternal,"Clientsdb.db",False)
+	Dim pm As B4XPagesManager
+	pm.Initialize(Activity)
+'	If FirstTime Then
+'		auth.Initialize("auth")
+'	End If
+	'If auth.CurrentUser.IsInitialized Then Auth_SignedIn(auth.CurrentUser)
+End Sub
+
+'Template version: B4A-1.01
+#Region Delegates
+
+Sub Activity_ActionBarHomeClick
+	ActionBarHomeClicked = True
+	B4XPages.Delegate.Activity_ActionBarHomeClick
+	ActionBarHomeClicked = False
+End Sub
+
+Sub Activity_KeyPress (KeyCode As Int) As Boolean
+	Return B4XPages.Delegate.Activity_KeyPress(KeyCode)
+End Sub
+
+Sub Activity_Resume
+	B4XPages.Delegate.Activity_Resume
+End Sub
+
+Sub Activity_Pause (UserClosed As Boolean)
+	B4XPages.Delegate.Activity_Pause
+End Sub
+
+Sub Activity_PermissionResult (Permission As String, Result As Boolean)
+	B4XPages.Delegate.Activity_PermissionResult(Permission, Result)
+End Sub
+
+Sub Create_Menu (Menu As Object)
+	B4XPages.Delegate.Create_Menu(Menu)
+End Sub
+
+#if Java
+public boolean _onCreateOptionsMenu(android.view.Menu menu) {
+	 processBA.raiseEvent(null, "create_menu", menu);
+	 return true;
+	
+}
+#End If
+#End Region
+
+'Program code should go into B4XMainPage and other pages.
+
+Private Sub CheckUpdate
+	InAppUpdate.initialize(False)
+	InAppUpdate.GetAppUpdateInfo
+
+    #IF JAVA
+      public void _onactivityresult(int requestCode,int resultCode){
+        com.khaan.iau.InAppUpdate.onActivityResult(activityBA,requestCode,resultCode);
+      }
+    #END IF
+End Sub
+
+Private Sub InAppUpdate_onAppUpdateInfoReceived(success As Boolean, inAppUpdateInfo As InAppUpdateInfo)
+	Log($"InAppUpdate_onAppUpdateInfoReceived, Success: ${success}"$)
+
+	If success Then
+		If inAppUpdateInfo.updateAvailability = inAppUpdateInfo.UPDATE_AVAILABILITY_DEVELOPER_TRIGGERED_UPDATE_IN_PROGRESS Or inAppUpdateInfo.updateAvailability = inAppUpdateInfo.UPDATE_AVAILABILITY_AVAILABLE Then
+			InAppUpdate.startImmediateUpdateFlow
+		End If
+	End If
+End Sub
+

@@ -1,0 +1,2 @@
+167.248.133.56 - - [27/Jan/2021:22:04:37 +0000] "GET / HTTP/1.1" 404 315 "-" "-"
+167.248.133.56 - - [27/Jan/2021:22:04:38 +0000] "GET / HTTP/1.1" 404 315 "-" "Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)"
